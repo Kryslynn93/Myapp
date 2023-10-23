@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, aws-cdk, github-workflow-azure-container-instance, github-workflow-azure-container-instance-graalvm, github-workflow-ci, github-workflow-docker-registry, github-workflow-google-cloud-run, gradle, groovy, groovy-application, http-client-test, junit, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, readme, serialization-jackson, shade, toml, toml-build]

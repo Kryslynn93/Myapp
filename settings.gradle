@@ -1,0 +1,5 @@
+
+rootProject.name="Myapp"
+
+include("app")
+include("infra")
